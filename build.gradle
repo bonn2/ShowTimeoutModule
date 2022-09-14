@@ -1,0 +1,14 @@
+plugins {
+    id 'java'
+}
+
+group 'net.bonn2.showtimeout'
+version '2.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compileOnly('net.bonn2:ModularBot:1.2.0')
+}
