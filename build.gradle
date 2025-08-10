@@ -10,5 +10,5 @@ repositories {
 }
 
 dependencies {
-    compileOnly('net.bonn2:ModularBot:1.2.5')
+    compileOnly('net.bonn2:ModularBot:1.3.0')
 }
